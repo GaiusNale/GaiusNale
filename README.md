@@ -1,4 +1,4 @@
-<h2 align="left">👋🏾 I'm Gaius Omonale</h2>
+<h3 align="left">👋🏾 I'm Gaius Omonale</h3>
 
 ![](https://komarev.com/ghpvc/?username=GaiusNale&color=grey)
 
