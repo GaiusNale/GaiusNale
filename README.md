@@ -1,4 +1,4 @@
-<h3 align="left">👋🏾 I'm Gaius Omonale</h3> 
+<h3 align="left">👋🏾 I'm Gaius Nale</h3> 
 
 Currently busy with exams and school hence the inactivity 
 
