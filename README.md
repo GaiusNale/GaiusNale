@@ -21,8 +21,8 @@ Welcome to my GitHub! I’m an automation specialist who loves building tools to
 - **[Chronos](https://github.com/GaiusNale/Chronos)**: A Discord bot for generating handy timestamps.
 
 ## 📫 Get in Touch
-- **LinkedIn**: [linkedin.com/in/gaius-omonale-23652328b](https://linkedin.com/in/gaius-omonale-23652328b)
-- **Twitter/X**: [@guy_nale(https://twitter.com/guy_nale)
+- **LinkedIn**: [Gaius Omonale](https://linkedin.com/in/gaius-omonale-23652328b)
+- **Twitter/X**: [@guy_nale](https://twitter.com/guy_nale)
 - **Email**: Drop me a line at gaiusnale@gmail.com
 
 Explore my repos, fork something, or hit me up for a chat about automation, bots, or anything remotely cool.
