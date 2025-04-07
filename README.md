@@ -16,7 +16,7 @@ Welcome to my GitHub! I’m an automation specialist who loves building tools to
 
 ## 🌟 Featured Projects
 - **[Apollo](https://github.com/GaiusNale/Apollo)**: A Discord bot that brings music to your voice channels with style.
-- **[Weather_App](https://github.com/GaiusNale/Weather_App)**: A Django web app that scrapes OpenWeather API data and serves it up nicely.
+- **[Weather_App](https://github.com/GaiusNale/Weather_App)**: A Django web app that scrapes data from the Open Weather API and presents it on a GUI.
 - **[tictactoe](https://github.com/GaiusNale/tictactoe)**: An unbeatable Tic-Tac-Toe game powered by the minimax algorithm.
 - **[Chronos](https://github.com/GaiusNale/Chronos)**: A Discord bot for generating handy timestamps.
 
